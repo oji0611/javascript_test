@@ -14,7 +14,7 @@
     justify-content: space-around;
 }
 .carte{
-    background-color: lightcoral;
+    background-color: lightblue;
     color: white;
     box-shadow: 1px 1px 3px 0px black;
     padding: 10px;
@@ -25,7 +25,7 @@
     border-radius: 15px;
 }
 .carte:hover{
-    background-color: lightcoral;
+    background-color: lightblue;
     color: white;
     box-shadow: 1px 1px 3px 0px black, inset -1px -1px 1px 0px black, inset 1px 1px 1px 0px white;
     padding: 10px;
@@ -39,7 +39,7 @@
 h1{
     text-align: center;
     color: white;
-    background-color: lightcoral;
+    background-color: lightblue;
     box-shadow: 1px 1px 3px 0px black;
     border-radius: 15px;
 }
@@ -52,12 +52,12 @@ header{
     text-align: center;
 }
 h2, h3{
-    color: lightcoral;
+    color: lightblue;
 }
 
 .zoneText{
     background-color: white;
-    color:lightcoral;
+    color:lightblue;
     padding:10px;
     margin: 10px;
 }
